@@ -3,23 +3,30 @@
 
 <h2>⚡ My Interests:</h2>
 
-<b> Artificial Intelligence
+  <b> Artificial Intelligence </b>
 
-<b> Machine Learning
+  <b> Machine Learning </b>
 
-<b> Deep Learning
+  <b> Deep Learning </b>
 
 
 <h2>🌱 Currently Learning:</h2>
 
-<b> Programming Languages: Python </b>
+  <b> Programming Languages: Python </b>
 
-<b> Web/App Development: MongoDB, ExpressJS, ReactJS, and NodeJS </b>
+  <b> Web/App Development: MongoDB, ExpressJS, ReactJS, and NodeJS </b>
 
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
-<b> Work in Progress... </b>
+  <b> Work in Progress... </b>
+  
+
+<h2>🏫 Academic Projects:</h2>
+  
+  <b> Work in Progress...</b>
+  
+  
 
 
 
