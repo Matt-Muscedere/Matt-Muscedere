@@ -23,7 +23,9 @@
   
 <h2> 🏫 Academic Projects: </h2>
 
-  <b> Work in Progress </b>
+  <h3> SortAlgorithims </h3>
+  
+  - [SortAlgorithms](https://github.com/submit507/SortAlgorithms)
   
 
 <!--
