@@ -17,19 +17,10 @@
   <b> Web/App Development: MongoDB, ExpressJS, ReactJS, and NodeJS </b>
 
 
-<h2>👨‍💻 Personal Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   <b> Work in Progress... </b>
   
-
-<h2>🏫 Academic Projects:</h2>
-  
-  <b> Work in Progress...</b>
-  
-  
-
-
-
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
