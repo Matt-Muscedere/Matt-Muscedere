@@ -17,9 +17,13 @@
   <b> Web/App Development: MongoDB, ExpressJS, ReactJS, and NodeJS </b>
 
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
   <b> Work in Progress... </b>
+  
+<h2> 🏫 Academic Projects: </h2>
+
+  <b> Work in Progress </b>
   
 
 <!--
