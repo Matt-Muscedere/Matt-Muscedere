@@ -28,3 +28,7 @@
   <h3> SortAlgorithims </h3>
   
   - [SortAlgorithms](https://github.com/submit507/SortAlgorithms)
+  
+  <h3> Connect 4 </h3>
+  
+  - [Connect 4](https://github.com/submit507/Connect-4))
