@@ -31,4 +31,4 @@
   
   <h3> Connect 4 </h3>
   
-  - [Connect 4](https://github.com/submit507/Connect-4))
+  - [Connect 4](https://github.com/submit507/Connect-4)
