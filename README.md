@@ -25,7 +25,15 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-  <b> Work in Progress... </b>
+  **[Personal Projects](https://github.com/submit507/Personal-Projects)**
+  
+  <h3> My Website (WIP) </h3>
+  
+  - [My Website (WIP)](https://github.com/submit507/My-Website-WIP-)
+  
+  <h3> Polynomial Calculator (WIP) </h3>
+  
+  - [Polynomial Calculator (WIP)](https://github.com/submit507/Polynomial-Calculator)
   
 <h2> 🏫 Academic Projects: </h2>
 
