@@ -8,13 +8,19 @@
   <b> Machine Learning </b>
 
   <b> Deep Learning </b>
+  
+  <b> Full-Stack development </b>
 
 
 <h2>🌱 Currently Learning:</h2>
 
+**[Sololearn Profile](https://www.sololearn.com/profile/27933381)**
+
   <b> Programming Languages: Python </b>
 
-  <b> Web/App Development: MongoDB, ExpressJS, ReactJS, and NodeJS </b>
+  <b> Web/App Development: HTML, CSS, Javascript, React, SQL  </b>
+  
+  <b> Development Tools: Git and Github
 
 
 <h2>👨‍💻 Personal Projects:</h2>
