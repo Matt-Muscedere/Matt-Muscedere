@@ -27,13 +27,13 @@
 
   **[Personal Projects](https://github.com/submit507/Personal-Projects)**
   
-  <h3> My Website (WIP) </h3>
+  <h3> My Website</h3>
   
-  - [My Website (WIP)](https://github.com/submit507/Website)
+  - [My Website](https://github.com/submit507/Website)
   
-  <h3> Polynomial Calculator (WIP) </h3>
+  <h3> Polynomial Calculator</h3>
   
-  - [Polynomial Calculator (WIP)](https://github.com/submit507/Polynomial-Calculator)
+  - [Polynomial Calculator](https://github.com/submit507/Polynomial-Calculator)
   
 <h2> 🏫 Academic Projects: </h2>
 
