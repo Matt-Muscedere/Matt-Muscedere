@@ -29,7 +29,7 @@
   
   <h3> My Website (WIP) </h3>
   
-  - [My Website (WIP)](https://github.com/submit507/My-Website-WIP-)
+  - [My Website (WIP)](https://github.com/submit507/Website)
   
   <h3> Polynomial Calculator (WIP) </h3>
   
