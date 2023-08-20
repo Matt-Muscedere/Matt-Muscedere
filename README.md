@@ -21,7 +21,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  **[Personal Projects](https://github.com/submit507/Personal-Projects)**
+  **[Projects](https://github.com/Matt-Muscedere/Projects)**
   
   <h3> My Website</h3>
   
