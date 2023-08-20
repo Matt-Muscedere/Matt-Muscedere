@@ -7,7 +7,7 @@
 
   <b> Blockchain </b>
 
-  <b> Cyber Security </b>
+  <b> Cybersecurity </b>
 
 
 <h2>🌱 Currently Learning:</h2>
