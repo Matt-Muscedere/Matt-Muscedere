@@ -3,27 +3,22 @@
 
 <h2>⚡ My Interests:</h2>
 
-  <b> Artificial Intelligence </b>
+  <b> Artificial Intelligence and Machine Learning </b>
 
-  <b> Machine Learning </b>
+  <b> Blockchain </b>
 
-  <b> Deep Learning </b>
-  
-  <b> Full-Stack development </b>
+  <b> Cyber Security </b>
 
 
 <h2>🌱 Currently Learning:</h2>
 
 **[Sololearn Profile](https://www.sololearn.com/profile/27933381)**
 
-  <b> Programming Languages: Python </b>
-
-  <b> Web/App Development: HTML, CSS, Javascript, React, SQL  </b>
-  
-  <b> Development Tools: Git and Github
+  <b> TensorFlow </b>
+  <b> Sckit-learn </b>
 
 
-<h2>👨‍💻 Personal Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   **[Personal Projects](https://github.com/submit507/Personal-Projects)**
   
