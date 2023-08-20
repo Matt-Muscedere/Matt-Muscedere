@@ -15,6 +15,7 @@
 **[Sololearn Profile](https://www.sololearn.com/profile/27933381)**
 
   <b> TensorFlow </b>
+  
   <b> Sckit-learn </b>
 
 
@@ -26,18 +27,3 @@
   
   - [My Website](https://github.com/submit507/Website)
   
-  <h3> Polynomial Calculator</h3>
-  
-  - [Polynomial Calculator](https://github.com/submit507/Polynomial-Calculator)
-  
-<h2> 🏫 Academic Projects: </h2>
-
-**[Academic Projects](https://github.com/submit507/Academic-Projects)**
-
-  <h3> SortAlgorithims </h3>
-  
-  - [SortAlgorithms](https://github.com/submit507/SortAlgorithms)
-  
-  <h3> Connect 4 </h3>
-  
-  - [Connect 4](https://github.com/submit507/Connect-4)
