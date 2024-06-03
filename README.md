@@ -13,11 +13,13 @@
 
   <h3>Appliances Energy Prediction with Machine Learning</h3>
 
-  - [Project](https://github.com/Matt-Muscedere/Appliances-Energy-Prediction-with-Machine-Learning)
+  - [Repository](https://github.com/Matt-Muscedere/Appliances-Energy-Prediction-with-Machine-Learning)
+  - [Research Report](https://github.com/Matt-Muscedere/Appliances-Energy-Prediction-with-Machine-Learning/blob/main/4730%20Report%201.pdf)
   - Developed and trained various Machine Learning models to predict appliance energy usage.
 
   <h3>Hyperparameters and AI Model Accuracy</h3>
 
   - [Project](https://github.com/Matt-Muscedere/Hyperparameters-and-AI-Model-Accuracy)
+  - [Research Report](https://github.com/Matt-Muscedere/Hyperparameters-and-AI-Model-Accuracy/blob/main/4730%20Final%20Report.pdf)
   - Experimented on the effects of hyperparameter tuning on various Machine Learning models.
   
