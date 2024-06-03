@@ -13,4 +13,4 @@
 
   <h3>Appliances Energy Prediction with Machine Learning</h3>
 
-- [Appliances Energy Prediction with Machine Learning](https://github.com/RicardoR23/Personal-Projects/)
+- [Project](https://github.com/RicardoR23/Personal-Projects/)
