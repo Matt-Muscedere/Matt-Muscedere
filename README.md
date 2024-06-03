@@ -11,6 +11,6 @@
 
   <h2>👨‍💻Projects:</h2>
 
-  <h3> Calculator</h3>
+  <h3>Appliances Energy Prediction with Machine Learning</h3>
 
 - [Appliances Energy Prediction with Machine Learning](https://github.com/RicardoR23/Personal-Projects/)
