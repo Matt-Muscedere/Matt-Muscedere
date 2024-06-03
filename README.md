@@ -19,7 +19,7 @@
 
   <h3>Hyperparameters and AI Model Accuracy</h3>
 
-  - [Project](https://github.com/Matt-Muscedere/Hyperparameters-and-AI-Model-Accuracy)
+  - [Repository](https://github.com/Matt-Muscedere/Hyperparameters-and-AI-Model-Accuracy)
   - [Research Report](https://github.com/Matt-Muscedere/Hyperparameters-and-AI-Model-Accuracy/blob/main/4730%20Final%20Report.pdf)
   - Experimented on the effects of hyperparameter tuning on various Machine Learning models.
   
