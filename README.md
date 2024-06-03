@@ -7,7 +7,10 @@
 
   <b> Blockchain </b>
 
-  <b> Cybersecurity </b>
+  <b> Data Science </b>
 
-  WIP
-  
+  <h2>👨‍💻Projects:</h2>
+
+  <h3> Calculator</h3>
+
+- [Appliances Energy Prediction with Machine Learning](https://github.com/RicardoR23/Personal-Projects/)
